@@ -25,3 +25,10 @@ ecmascript@0.14.3
 akryum:vue-component
 modern-browsers@0.1.5
 akryum:vue
+akryum:vue-pug
+nathantreid:vue-typescript
+typescript
+jagi:astronomy
+quave:testing
+accounts-base
+accounts-password
