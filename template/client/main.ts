@@ -1,7 +1,6 @@
 import Vue from 'vue'
-
 import '../imports/ui/plugins'
-
+import { Meteor } from 'meteor/meteor'
 import App from '../imports/ui/App.vue'
 
 import VueMeteorTracker from 'vue-meteor-tracker';
