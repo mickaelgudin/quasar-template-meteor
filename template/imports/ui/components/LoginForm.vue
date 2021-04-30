@@ -28,6 +28,7 @@ export default class LoginForm extends Vue {
   handleSubmit(event) {
     Meteor.loginWithPassword(this.username, this.password);
     Meteor.user();
+    this.$router. push('/TaskPage');
   }
 }
 </script>

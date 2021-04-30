@@ -7,7 +7,6 @@
 </template>
 
 <script>
-import { TasksCollection } from "../../db/TasksCollection";
 import { Meteor } from 'meteor/meteor';
 import { QBtn, QItem } from 'quasar';
 
